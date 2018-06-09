@@ -49,6 +49,7 @@ namespace ZeznutePetlje
             Console.WriteLine("GCD = " + GCD);
             int LCM = a*b/GCD;
             Console.WriteLine("LCM = " + LCM);
+            Console.WriteLine();
         
             
         }
