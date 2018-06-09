@@ -1,0 +1,9 @@
+c:\users\mislav\documents\visual studio 2012\Projects\ZeznutePetlje\ZeznutePetlje\bin\Debug\ZeznutePetlje.exe.config
+c:\users\mislav\documents\visual studio 2012\Projects\ZeznutePetlje\ZeznutePetlje\bin\Debug\ZeznutePetlje.exe
+c:\users\mislav\documents\visual studio 2012\Projects\ZeznutePetlje\ZeznutePetlje\bin\Debug\ZeznutePetlje.pdb
+c:\users\mislav\documents\visual studio 2012\Projects\ZeznutePetlje\ZeznutePetlje\obj\Debug\ZeznutePetlje.csprojResolveAssemblyReference.cache
+c:\users\mislav\documents\visual studio 2012\Projects\ZeznutePetlje\ZeznutePetlje\obj\Debug\ZeznutePetlje.exe
+c:\users\mislav\documents\visual studio 2012\Projects\ZeznutePetlje\ZeznutePetlje\obj\Debug\ZeznutePetlje.pdb
+C:\Users\Mislav\ZeznutePetlje\ZeznutePetlje\bin\Debug\ZeznutePetlje.exe.config
+C:\Users\Mislav\ZeznutePetlje\ZeznutePetlje\obj\Debug\ZeznutePetlje.exe
+C:\Users\Mislav\ZeznutePetlje\ZeznutePetlje\obj\Debug\ZeznutePetlje.pdb
