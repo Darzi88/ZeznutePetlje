@@ -3,3 +3,5 @@ Search the Internet for the Euclidean algorithm for calculation the greatest com
 or read about it in Wikipedia: http://en.wikipedia.org/wiki/Euclidean_algorithm.
 
 LCM uses formula: LCM(a, b) = |a*b| / GCD(a, b)
+
+have fun :)
