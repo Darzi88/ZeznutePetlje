@@ -14,9 +14,9 @@ namespace ZeznutePetlje
             int b = int.Parse(Console.ReadLine());
             a = Math.Abs(a);
             b = Math.Abs(b);
-            int first = a - 1;
-            int second = b - 1;
-            int GCD = 0;
+            int first = a - 1; // Reduces its value until its divisible for variable a
+            int second = b - 1; // Reduces its value until its divisible for variable b
+            int GCD = 0; // Greatest common divisor, set as 0 because its should be have a value
 
             for (; ; )
             {
